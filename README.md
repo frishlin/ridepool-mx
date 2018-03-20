@@ -16,8 +16,9 @@ Hay usuarios que buscan ahorrar en sus viajes CDMX-Cuernavaca tanto en transport
 
 ## Perfil de Usuario
 Los perfiles de usuario identificados son dos:
-- Conductor [conductor](https://github.com/frishlin/ridepool-mx/blob/master/assets/imgs/conductor.png)
-- Pasajero  [pasajero](https://github.com/frishlin/ridepool-mx/blob/master/assets/imgs/pasajero.png)
+- Conductor ![conductor](https://github.com/frishlin/ridepool-mx/blob/master/assets/imgs/conductor.png)
+- Pasajero  ![pasajero](https://github.com/frishlin/ridepool-mx/blob/master/assets/imgs/pasajero.png)
+
 
 ## Necesidades del Conductor
 - Aprovechar los asientos libres de su auto
@@ -41,7 +42,7 @@ Hacer que se registren pasajeros y conductores para que la plataforma crezca con
 ## Solución del Problema
 Con todo lo requerido e identificado anteriormente, nuestro producto es una Landing Page de un sitio llamado RidePoolMX, el cual, es una plataforma de transporte colaborativo, donde los usuarios se podrán registrar como pasajeros y conductores, verificando  su identidad para que así todos los usuarios se sientan tranquilos al realizar sus viajes con nosotros.
 
-[logo](https://github.com/frishlin/ridepool-mx/blob/master/assets/imgs/logo.png)
+![logo](https://github.com/frishlin/ridepool-mx/blob/master/assets/imgs/logo.png)
 
 ## beneficios
 - Ahorrar en gastos de viaje como pasajero y como conductor
@@ -54,4 +55,4 @@ Con todo lo requerido e identificado anteriormente, nuestro producto es una Land
 - Cuando una persona sea un usuario registrado de Ridepool Mx , podrá seleccionar su viaje y su conductor o pasajero.
 - El usuario podr pagar con tarjeta de crédito, débito o Paypal
 
-[landing-page](https://github.com/frishlin/ridepool-mx/blob/master/assets/imgs/landing.png)
+![landing-page](https://github.com/frishlin/ridepool-mx/blob/master/assets/imgs/landing.png)

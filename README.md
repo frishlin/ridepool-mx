@@ -2,12 +2,10 @@
 
 ## Sobre el equipo:
 Integrantes:
-- Adriana Dillarza (UX Designer) ![Designer](https://github.com/frishlin/ridepool-mx/blob/master/assets/imgs/design.png)
-- Joali Gamboa (UX Research) ![Designer](https://github.com/frishlin/ridepool-mx/blob/master/assets/imgs/research.png)
-- Karina Quezada (Product Owner) ![Designer](https://github.com/frishlin/ridepool-mx/blob/master/assets/imgs/PO.png)
-
-- Marisol Juárez (UX Research) ![Designer](https://github.com/frishlin/ridepool-mx/blob/master/assets/imgs/research.png)
-
+- Adriana Dillarza (UX Designer)
+- Joali Gamboa (UX Research)
+- Karina Quezada (Product Owner)
+- Marisol Juárez (UX Research)
 
 
 ## Descripción del proyecto

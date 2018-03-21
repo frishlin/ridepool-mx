@@ -3,13 +3,21 @@
 ## Sobre el equipo:
 Integrantes:
 - Adriana Dillarza (UX Designer)
-- Joali Gamboa (UX Research)
-- Karina Quezada (Product Owner)
-- Marisol Juárez (UX Research)
+- Joali Gamboa      (UX Research)
+- Karina Quezada    (Product Owner)
+- Marisol Juárez    (UX Research)
 
 
 ## Descripción del proyecto
-Se desea crear una Landig Page para mejorar la Experiencia de Usuario de personas que realizan viajes recurrentes de México - Cuernavaca (y viceversa).
+Entender y optimizar el _Jorney_ de tomar un camión de CDMX - Cuernavaca
+
+### Objetivo del Proyecto
+Conocer todo el proceso de diseño de una solución tecnológica
+
+### Entregable
+- Presentación sobre la oportunidad detectada
+- Landing Page de la solución
+- Prototipo de la solución web/móvil en Figma
 
 ## Enunciado del Problema
 Hay usuarios que buscan ahorrar en sus viajes CDMX-Cuernavaca tanto en transportarse como en reducir los gastos de su viaje por carretera; a su vez buscan viajar seguros.

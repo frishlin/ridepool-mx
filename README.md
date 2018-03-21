@@ -29,7 +29,7 @@ Los perfiles de usuario identificados son dos:
 
 ## Mapa de empatía
 Se realizan los mapas de empatía de cada perfil de usuario detectado
-Conductor ![mapa de empatía](https://github.com/frishlin/ridepool-mx/blob/master/assets/imgs/empathy-map.jpg)
+![mapa de empatía](https://github.com/frishlin/ridepool-mx/blob/master/assets/imgs/empathy-map.jpg)
 
 ## Necesidades del Conductor
 - Aprovechar los asientos libres de su auto

@@ -2,10 +2,10 @@
 
 ## Sobre el equipo:
 Integrantes:
-- Adriana Dillarza (UX Designer)
-- Joali Gamboa      (UX Research)
-- Karina Quezada    (Product Owner)
-- Marisol Juárez    (UX Research)
+- Adriana Dillarza&emsp;(UX Designer)
+- Joali Gamboa&emsp;&emsp;(UX Research)
+- Karina Quezada&emsp;(Product Owner)
+- Marisol Juárez&emsp;&nbsp;&nbsp;(UX Research)
 
 
 ## Descripción del proyecto

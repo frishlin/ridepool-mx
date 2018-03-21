@@ -26,7 +26,7 @@ Los perfiles de usuario identificados son dos:
 
 ## Mapa de empatía
 Se realizan los mapas de empatía de cada perfil de usuario detectado
-![mapa de empatía](https://github.com/frishlin/ridepool-mx/blob/master/assets/imgs/empathy-map.jpg)
+![mapa de empatía](https://github.com/frishlin/ridepool-mx/blob/master/assets/imgs/empathy-map.png)
 
 ## Enunciado del Problema
 Hay usuarios que buscan ahorrar en sus viajes CDMX-Cuernavaca tanto en transportarse como en reducir los gastos de su viaje por carretera; a su vez buscan viajar seguros.

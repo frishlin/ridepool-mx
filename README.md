@@ -27,6 +27,9 @@ Los perfiles de usuario identificados son dos:
 - Conductor ![conductor](https://github.com/frishlin/ridepool-mx/blob/master/assets/imgs/conductor.png)
 - Pasajero  ![pasajero](https://github.com/frishlin/ridepool-mx/blob/master/assets/imgs/pasajero.png)
 
+## Mapa de empatía
+Se realizan los mapas de empatía de cada perfil de usuario detectado
+Conductor ![mapa de empatía](https://github.com/frishlin/ridepool-mx/blob/master/assets/imgs/empathy-map.jpg)
 
 ## Necesidades del Conductor
 - Aprovechar los asientos libres de su auto

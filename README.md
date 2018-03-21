@@ -19,9 +19,6 @@ Conocer todo el proceso de diseño de una solución tecnológica
 - Landing Page de la solución
 - Prototipo de la solución web/móvil en Figma
 
-## Enunciado del Problema
-Hay usuarios que buscan ahorrar en sus viajes CDMX-Cuernavaca tanto en transportarse como en reducir los gastos de su viaje por carretera; a su vez buscan viajar seguros.
-
 ## Perfil de Usuario
 Los perfiles de usuario identificados son dos:
 - Conductor ![conductor](https://github.com/frishlin/ridepool-mx/blob/master/assets/imgs/conductor.png)
@@ -30,6 +27,9 @@ Los perfiles de usuario identificados son dos:
 ## Mapa de empatía
 Se realizan los mapas de empatía de cada perfil de usuario detectado
 ![mapa de empatía](https://github.com/frishlin/ridepool-mx/blob/master/assets/imgs/empathy-map.jpg)
+
+## Enunciado del Problema
+Hay usuarios que buscan ahorrar en sus viajes CDMX-Cuernavaca tanto en transportarse como en reducir los gastos de su viaje por carretera; a su vez buscan viajar seguros.
 
 ## Necesidades del Conductor
 - Aprovechar los asientos libres de su auto

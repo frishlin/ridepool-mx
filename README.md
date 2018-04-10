@@ -15,7 +15,7 @@ Por tanto, los perfiles de usuario identificados son dos:
 ## Customer Journey Map
 Para entender mejor el jorney de los usuarios, construimos el mapa donde se visualizan las actividades principales desde que el pasajero haciendo una reservación de asiento de un auto cuyo conductor viaja a Cuernavaca, a través de una aplicación móvil
 
-![journey map](https://github.com/frishlin/ridepool-mx/blob/master/assets/imgs/journey map.jpg)
+![journey map](https://github.com/frishlin/ridepool-mx/blob/master/assets/imgs/journey%20map.jpg)
 
 ## Mapa de empatía
 A continuación, se realiza el mapa de empatía de cada perfil de usuario detectado

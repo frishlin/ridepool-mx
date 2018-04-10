@@ -76,7 +76,7 @@ Con todo lo requerido e identificado anteriormente, nuestro producto es una Land
 
 ![logo](https://github.com/frishlin/ridepool-mx/blob/master/assets/imgs/logo.png)
 
-## beneficios
+## Beneficios
 - Ahorrar en gastos de viaje como pasajero y como conductor
 - Seguridad de estar viajando con usuarios verificados
 - Poder tener perfil de conductor/pasajero para realizar los viajes
@@ -86,8 +86,6 @@ Con todo lo requerido e identificado anteriormente, nuestro producto es una Land
 - Se le solicitarán diferentes documentos con los cuales verificaremos sus identidad y con eso asegurar que nuestros usuarios son confiables.
 - Cuando una persona sea un usuario registrado de Ridepool Mx , podrá seleccionar su viaje y su conductor o pasajero.
 - El usuario podr pagar con tarjeta de crédito, débito o Paypal
-
-![landing-page](https://github.com/frishlin/ridepool-mx/blob/master/assets/imgs/landing.png)
 
 ## Análisis de la implementación
 Se obtuvieron 80 registros de las personas que visitaron la Landig Page, por tanto se obtuvieron 80 grabaciones, cuya duración fue de 30 segundos a 2:50 minutos. Únicamente 10 usuarios que navegaron en la Landing Page no se registraron.

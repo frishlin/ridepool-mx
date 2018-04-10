@@ -1,4 +1,4 @@
-![landing-page](https://github.com/frishlin/ridepool-mx/blob/master/assets/imgs/landing.png)
+![landing-page](https://github.com/frishlin/ridepool-mx/blob/master/assets/imgs/landing.jpg)
 
 ## Sobre el equipo:
 Integrantes:

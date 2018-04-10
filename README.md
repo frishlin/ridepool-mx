@@ -1,4 +1,4 @@
-# __Producto Final 1 - Landing Page__
+![landing-page](https://github.com/frishlin/ridepool-mx/blob/master/assets/imgs/landing.png)
 
 ## Sobre el equipo:
 Integrantes:

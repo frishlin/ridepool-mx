@@ -1,3 +1,5 @@
+Conocer el Journey de los usuarios que viajan continuamente de la ciudad de México a Cuernavaca y mejorar su experiencia a través de una propuesta de Landing Page.
+
 ![landing-page](https://github.com/frishlin/ridepool-mx/blob/master/assets/imgs/landing.jpg)
 
 Especialidad: UX Researcher

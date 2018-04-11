@@ -1,9 +1,6 @@
 Conocer el Journey de los usuarios que viajan continuamente de la ciudad de México a Cuernavaca y mejorar su experiencia a través de una propuesta de Landing Page.
 
-![landing-page](https://github.com/frishlin/ridepool-mx/blob/master/assets/imgs/landing.jpg)
-
-Especialidad: UX Researcher
-Sprint: 1
+![landing](https://user-images.githubusercontent.com/32878468/38594992-cb1376f2-3d0e-11e8-9f6c-dfc628eff124.jpg)
 
 ## Definición del usuario:
 Mario García es un usuario (pasajero) que viaja cada fin de semana a Cuernavaca, Morelos, pues su familia se encuentra allá mientras él trabaja en la CDMX. Tiene 33 años, es casado, licenciado en Administración de empresas. Su sueldo es de $13,000.00 mensuales y se viaja en transporte público, principalmente en autobús.

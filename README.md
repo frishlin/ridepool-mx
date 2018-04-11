@@ -1,4 +1,4 @@
-# **Ridepool**
+# Ridepool
 
 Conocer el Journey de los usuarios que viajan continuamente de la ciudad de México a Cuernavaca y mejorar su experiencia a través de una propuesta de Landing Page.
 
